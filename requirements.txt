@@ -7,3 +7,8 @@ langchain_groq
 langchain-google-community
 langchain-community
 langgraph
+pypdf
+beautifulsoup4
+wikipedia
+langchain-text-splitters
+langchain-chroma
